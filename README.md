@@ -63,9 +63,6 @@ Skilled in .NET technologies with growing front-end expertise, I craft clean, ef
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=walidtawfik1&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidtawfik1&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
