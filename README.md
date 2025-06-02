@@ -9,8 +9,7 @@
 
 ## ✨ About Me
 
-Hi! I'm Walid, a Full-Stack Web Developer and Computer Science graduate passionate about building scalable, user-focused web applications.  
-Skilled in .NET technologies with growing front-end expertise, I craft clean, efficient, and reliable full-stack solutions.
+Hi! I'm Walid, a Full-Stack Web Developer and Computer Science graduate passionate about building scalable, user-focused web applications. Skilled in .NET technologies with growing front-end expertise, I craft clean, efficient, and reliable full-stack solutions.
 
 - 🚀 Currently working on: a powerful multi-feature **e-learning platform**
 - 🔧 Backend Focus: ASP.NET Core, Web APIs, SQL Server
